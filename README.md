@@ -11,7 +11,7 @@ We are a professional digital service.
 - Voice Over/Dubbing
 
 ## Want to know more?
-  🌐 ITUTU Media(https://itutu-media.id)
-  💬 WhatsApp chat(https://wa.me/6285155115455)
+- 🌐 ITUTU Media(https://itutu-media.id)
+- 💬 WhatsApp chat(https://wa.me/6285155115455)
 
 ![](https://visitor-badge.glitch.me/badge?page_id=itutu-media.about-me)
