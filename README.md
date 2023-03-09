@@ -12,6 +12,7 @@ We are a professional digital service.
 
 ## Want to know more?
 - 🌐 [ITUTU Media](https://itutu-media.id)
+- 📧 [Mail Me](mailto:hello@itutu-media.id)
 - 💬 [WhatsApp chat](https://wa.me/6285155115455)
 
 ![](https://visitor-badge.glitch.me/badge?page_id=itutu-media.about-me)
